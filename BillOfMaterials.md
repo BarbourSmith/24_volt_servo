@@ -3,4 +3,5 @@
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
 |M2.5x6mm Bolt|8|$0.00||
-|Total: |8|$0.00| |
+|24 Volt Servo|2|$89.70|[Amazon](https://www.amazon.com/dp/B0DFWQD5JL?tag=maslowcnc01-20)|
+|Total: |10|$89.70| |
