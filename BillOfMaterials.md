@@ -2,6 +2,6 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|M2.5x6mm Bolt|8|$0.00||
-|24 Volt Servo|2|$89.70|[Amazon](https://www.amazon.com/dp/B0DFWQD5JL?tag=maslowcnc01-20)|
-|Total: |10|$89.70| |
+|M2.5x6mm Bolt|11|$0.00||
+|24 Volt Servo|1|$44.85|[Amazon](https://www.amazon.com/dp/B0DFWQD5JL?tag=maslowcnc01-20)|
+|Total: |12|$44.85| |
